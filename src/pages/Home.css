@@ -1,0 +1,9 @@
+.HomeContainer{
+    margin: 0;
+    background: rgb(243, 255, 76);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}

@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #254147;
+}
+
+.Navbar-container {
+  list-style: none;
+}
+
+.NavBar {
+  background-color: #111d1f;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 0px;
+  width: 100%
+}
+
+.NavBar ul li{
+  display: inline-block;
+  line-height: 50px;
+  margin: 0 20px;
+}
+
+.NavBar h1 {
+  font-size: 32px;
+  margin: 10px 20px;
+}
+
+.NavBar a {
+  color: white;
+}
