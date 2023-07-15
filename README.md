@@ -1,5 +1,5 @@
 # Star Wars Wiki
-Star Wars Wiki by [Me](https://github.com/ichsanfirds)
+Star Wars Wiki by [Me](https://github.com/ichsanfirds) Powered by Vercel [click here to view](https://vercel.com/ichsanfirds/star-wars-wiki-deploy-vercel)
 
 ## Used Libraries
 * Currenly No Library used
