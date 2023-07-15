@@ -2,7 +2,8 @@
 Star Wars Wiki by [Me](https://github.com/ichsanfirds) Powered by Vercel [click here to view](https://star-wars-wiki-deploy-vercel.vercel.app/)
 
 ## Used Libraries
-* Currenly No Library used
+* React Router
+* Axios
 
 ## Pages
 Consists of 8 pages (the global & detail page), namely:
